@@ -1,0 +1,8 @@
+campaign_name,ad_group,keyword,match_type,final_url,ad_angle,notes
+Search | Brand | AR,Brand,[BRAND NAME],exact,https://example.com,Brand protection,Replace with actual brand
+Search | Google Ads Management | AR,Google Ads Management,إدارة حملات جوجل ادز,phrase,https://example.com/google-ads-management,Direct service,High intent
+Search | Google Ads Management | AR,Google Ads Management,شركة ادارة حملات جوجل,phrase,https://example.com/google-ads-management,Agency/service,High intent
+Search | Google Ads Management | AR,Google Ads Agency,وكالة اعلانات جوجل,phrase,https://example.com/google-ads-management,Agency trust,High intent
+Search | PMax | AR,Performance Max,ادارة حملات بيرفورمانس ماكس,phrase,https://example.com/performance-max,PMax specialist,Mid/high intent
+Search | Tracking | AR,Conversion Tracking,تتبع تحويلات جوجل ادز,phrase,https://example.com/conversion-tracking,Measurement quality,High intent
+Search | E-commerce | AR,Ecommerce Google Ads,اعلانات جوجل للمتاجر الالكترونية,phrase,https://example.com/ecommerce-google-ads,Ecommerce growth,High intent

@@ -1,0 +1,4 @@
+keyword,google_ads_negative,match_type,category,reason_ar
+كورس,"""كورس""",phrase,learning_intent,نية تعلم وليس شراء خدمة
+وظائف,"""وظائف""",phrase,job_intent,باحث عن وظيفة
+شرح,"""شرح""",phrase,learning_intent,نية شرح أو محتوى

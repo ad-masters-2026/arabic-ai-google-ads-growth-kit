@@ -1,0 +1,29 @@
+keyword,match_type,category,reason_ar
+مجاني,phrase,free_intent,باحث عن مجاني وليس عميل جاهز للدفع
+مجانا,phrase,free_intent,باحث عن مجاني
+كورس,phrase,learning_intent,نية تعلم وليس شراء خدمة
+دورة,phrase,learning_intent,نية تعليم
+تعلم,phrase,learning_intent,نية تعليمية
+شرح,phrase,learning_intent,نية شرح أو محتوى
+تحميل,phrase,download_intent,نية تحميل ملفات
+pdf,broad,download_intent,نية تحميل PDF
+نموذج,phrase,template_intent,يبحث عن نموذج مجاني غالبًا
+وظائف,phrase,job_intent,باحث عن وظيفة
+وظيفة,phrase,job_intent,باحث عن وظيفة
+توظيف,phrase,job_intent,نية توظيف أو وظائف
+راتب,phrase,job_intent,استعلام راتب
+رواتب,phrase,job_intent,استعلام رواتب
+متدرب,phrase,job_intent,باحث عن تدريب
+تدريب,phrase,learning_intent,نية تدريب وليس خدمة
+خدمة العملاء,phrase,support_intent,باحث عن دعم وليس شراء
+رقم خدمة العملاء,phrase,support_intent,باحث عن رقم دعم
+تسجيل دخول,phrase,login_intent,نية دخول منصة
+login,broad,login_intent,نية تسجيل دخول
+نسيت كلمة المرور,phrase,login_intent,استعلام دعم
+وزارة,phrase,government_intent,استعلام حكومي غالبًا
+منصة قوى تسجيل دخول,phrase,login_intent,دخول منصة وليس خدمة
+أبشر تسجيل دخول,phrase,login_intent,دخول منصة وليس خدمة
+التأمينات تسجيل دخول,phrase,login_intent,دخول منصة وليس خدمة
+حاسبة,phrase,tool_intent,يبحث عن أداة مجانية
+طريقة,phrase,how_to_intent,نية معرفة طريقة
+كيف,phrase,how_to_intent,نية معلوماتية

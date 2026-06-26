@@ -1,0 +1,3 @@
+lead_id,source_campaign,phone_valid,location_fit,budget_fit,need_clear,decision_maker,spam_or_job,score,status,notes
+example-001,Search | Google Ads Management | AR,2,2,3,2,1,0,10,qualified,Ready for sales call
+example-002,PMax | Lead Gen | Core Service,2,0,0,1,0,-5,-2,disqualified,Outside target/location or spam
